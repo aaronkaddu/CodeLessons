@@ -8,9 +8,15 @@ print(bicycles)
 # Changing, Adding and removing elements in list
 bicycles[0] = "Manyi Ga Kifuba"
 print(bicycles)
+
 # popping items from a list
 
 lastBike = bicycles.pop()
 print(bicycles)
 print(lastBike)
+
+# Popping items using the index locations.
+anyBik = bicycles.pop(1)
+print(anyBik)
+print(bicycles)
 
