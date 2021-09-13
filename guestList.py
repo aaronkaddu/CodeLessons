@@ -37,3 +37,6 @@ print(myGuests)
 
 myGuests.append('Ronaldo')
 print(myGuests)
+
+# length of my string
+print(len(myGuests))
